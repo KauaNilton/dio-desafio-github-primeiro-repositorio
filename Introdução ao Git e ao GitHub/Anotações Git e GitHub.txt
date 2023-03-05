@@ -1,6 +1,13 @@
 Git Bash: O Git bash é um terminal estendido para otimizar o uso do Git.
 |Comandos|
+Repositório GitHub: Para criar um repositório no GitHub é preciso ir no perfil, entrar na parte de repositórios e apertar em "New".
 ls: Lista as pastas ou os seus aquivos.
-cd: Entra em uma pasta específica. ex.:"cd Dio/". Para voltar para a pasta anterior utiliza-se "cd ..".
+cd: Entra em uma pasta específica. Ex.:"cd Dio/". Para voltar para a pasta anterior utiliza-se "cd ..".
+git clone: É usado para clonar um repositório, colocando o comando e o link do repositório. Ex.:"git clone https://github.com/KauaNilton/dio-desafio-github-primeiro-repositorio.git".
 git status: É utilizado para ver o status da branch main.
+git add: O comando serve para adicionar todos os arquivos. Ex:"git add .".
 
+Depois desses comandos o arquivo só foi adicionado no controle de versão local.
+Proximos passos:
+git commit: Serve para criar um commit local. Ex: git commit -m "Anotações dos comandos Git/GitHub".
+git push: Serve para enviar os commits locais para a nuvem. Ex: "git push origin main".
