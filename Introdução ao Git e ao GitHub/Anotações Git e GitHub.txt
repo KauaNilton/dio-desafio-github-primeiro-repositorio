@@ -11,3 +11,5 @@ Depois desses comandos o arquivo só foi adicionado no controle de versão local
 Proximos passos:
 git commit: Serve para criar um commit local. Ex: git commit -m "Anotações dos comandos Git/GitHub".
 git push: Serve para enviar os commits locais para a nuvem. Ex: "git push origin main".
+
+Essas anotações servem para me ajudar caso esqueça algum comando. :)
