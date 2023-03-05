@@ -1,0 +1,6 @@
+Git Bash: O Git bash é um terminal estendido para otimizar o uso do Git.
+|Comandos|
+ls: Lista as pastas ou os seus aquivos.
+cd: Entra em uma pasta específica. ex.:"cd Dio/". Para voltar para a pasta anterior utiliza-se "cd ..".
+git status: É utilizado para ver o status da branch main.
+
